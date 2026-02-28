@@ -22,7 +22,7 @@ L'obiettivo principale è stato quello di creare uno strumento robusto in grado 
 - `magazzino.csv`: Database flat-file per la memorizzazione dei prodotti (generato a runtime).
 
 ## 💡 Valore Aggiunto (Prospettiva Gestionale)
-Come **Project Leader**, ho affrontato lo sviluppo non solo come scrittura di codice, ma come ottimizzazione di un processo operativo. L'utilizzo dello **User Story Mapping** (documentato nel notebook) ha permesso di minimizzare il lead time di sviluppo focalizzandosi sulle funzionalità "core" che portano valore immediato all'utente finale.
+Come **Project Leader**, ho affrontato lo sviluppo non solo come scrittura di codice, ma come ottimizzazione di un processo operativo. Ho infatti utilizzato lo **User Story Mapping** per individuare le funzionalità "core" che portano valore immediato all'utente finale.
 
 ---
 *Progetto realizzato nell'ambito del Master in Data Science di Profession AI.*
